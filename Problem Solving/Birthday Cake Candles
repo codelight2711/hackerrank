@@ -1,5 +1,4 @@
-def birthdayCakeCandles(ar):
-    
+def birthdayCakeCandles(ar):  
     i=0
     count=0
     while i<len(ar)-1:
