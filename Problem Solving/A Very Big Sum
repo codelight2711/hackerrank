@@ -1,5 +1,4 @@
 def aVeryBigSum(ar):
-
     n=len(ar)
     i=0
     c=0
