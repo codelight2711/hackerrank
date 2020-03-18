@@ -1,5 +1,4 @@
 def diagonalDifference(arr):
-    
     i = 0
     j = 0
     c = 0
