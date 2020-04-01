@@ -1,5 +1,4 @@
 def breakingRecords(scores):
-    
     maxi=scores[0]
     mini=scores[0]
     maxcount =0
