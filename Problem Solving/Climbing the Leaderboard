@@ -7,4 +7,5 @@ def climbingLeaderboard(scores, alice):
         while (n > index and i >= scores[index]):
             index += 1
         rank_list.append(n+1-index) 
+        
     return rank_list
