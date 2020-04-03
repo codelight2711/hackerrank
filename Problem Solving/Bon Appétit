@@ -1,4 +1,5 @@
 def bonAppetit(bill, k, b):
+    
     cost=0
     for x in range(0,len(bill)):
         if x!=k:
