@@ -10,4 +10,5 @@ int main() {
     scanf("%d %ld %c %f %lf",&i,&li,&cha,&fl,&lfl);
     printf("%d\n%ld\n%c\n%f\n%lf",i,li,cha,fl,lfl);
     return 0;
+    
 }
