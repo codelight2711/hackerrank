@@ -10,4 +10,5 @@ def birthday(s, d, m):
             ans+=1
         if(i+n==len(s)):
             break
+            
     return ans
