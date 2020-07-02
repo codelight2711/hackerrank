@@ -13,5 +13,4 @@ def migratoryBirds(arr):
     for val,count in di.items():
         if count==maxi:
             a.append(val)
-    
     return min(a)
