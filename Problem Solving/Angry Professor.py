@@ -6,3 +6,4 @@ def angryProfessor(k, a):
     if(count>=k):
         return "NO"
     return "YES"
+
