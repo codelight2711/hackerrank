@@ -7,4 +7,3 @@ def angryProfessor(k, a):
         return "NO"
     return "YES"
 
-
