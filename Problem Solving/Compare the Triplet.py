@@ -16,6 +16,7 @@ def compareTriplets(a, b):
         c = c
         d = d
 
+     
     else:
         d =d+1
     if a[2]>b[2]:
