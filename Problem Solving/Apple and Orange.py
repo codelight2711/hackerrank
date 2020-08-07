@@ -26,3 +26,4 @@ def countApplesAndOranges(s, t, a, b, apples, oranges):
             k += 1
     print(len(u))
     print(len(v))
+    
