@@ -42,6 +42,7 @@ def printLinkedList(head):
     while head:
         arr.append(head.data)
         head=head.next
+        
     for x in range(len(arr)):
         print(arr[x])
 
